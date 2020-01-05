@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deployed-scrimba-meme-generator/static/css/main.96fa6663.chunk.css",
+    "main.js": "/deployed-scrimba-meme-generator/static/js/main.75257a47.chunk.js",
+    "main.js.map": "/deployed-scrimba-meme-generator/static/js/main.75257a47.chunk.js.map",
+    "runtime-main.js": "/deployed-scrimba-meme-generator/static/js/runtime-main.9f00a9c7.js",
+    "runtime-main.js.map": "/deployed-scrimba-meme-generator/static/js/runtime-main.9f00a9c7.js.map",
+    "static/js/2.45d26cc3.chunk.js": "/deployed-scrimba-meme-generator/static/js/2.45d26cc3.chunk.js",
+    "static/js/2.45d26cc3.chunk.js.map": "/deployed-scrimba-meme-generator/static/js/2.45d26cc3.chunk.js.map",
+    "index.html": "/deployed-scrimba-meme-generator/index.html",
+    "precache-manifest.cbce4333c07f2f65f06f49af212d383a.js": "/deployed-scrimba-meme-generator/precache-manifest.cbce4333c07f2f65f06f49af212d383a.js",
+    "service-worker.js": "/deployed-scrimba-meme-generator/service-worker.js",
+    "static/css/main.96fa6663.chunk.css.map": "/deployed-scrimba-meme-generator/static/css/main.96fa6663.chunk.css.map",
+    "static/js/2.45d26cc3.chunk.js.LICENSE": "/deployed-scrimba-meme-generator/static/js/2.45d26cc3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f00a9c7.js",
+    "static/js/2.45d26cc3.chunk.js",
+    "static/css/main.96fa6663.chunk.css",
+    "static/js/main.75257a47.chunk.js"
+  ]
+}
